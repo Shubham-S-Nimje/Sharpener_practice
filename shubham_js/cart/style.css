@@ -1,0 +1,49 @@
+body{
+    background-image: url('sample.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:100%;
+    padding-top: 1%;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+h1{
+    background-color:slateblue;
+    border-radius: 2rem;
+    margin-top: 10%;
+    color:aliceblue;
+}
+form{
+    background-color:aliceblue;
+    padding: 5%;
+    margin: 1%;
+    border-radius: 2rem;
+}
+h2{
+    background-color:tomato;
+    border-radius: 2rem;
+    margin-top: 10%;
+    color: aliceblue;
+    padding: 1%;
+}
+#cartdata{
+    background-color:aliceblue;
+    padding: 5%;
+    margin: 1%;
+    border-radius: 2rem;
+    text-align: left;
+}
+#btn{
+    background-color:seagreen;
+    color: aliceblue;
+    border-radius: 1rem;
+    padding: 2%;
+    font-weight: bold;
+}
+#delbtn{
+    background-color:red;
+    color: aliceblue;
+    border-radius: 1rem;
+    padding: 1%;
+    margin: 1%;
+}
