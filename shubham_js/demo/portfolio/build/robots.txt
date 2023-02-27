@@ -1,0 +1,6 @@
+robots.txt
+User-agent: *
+Disallow: 
+Crawl-delay: 5
+Disallow: /cgi-bin/
+Sitemap: https://shubham.nimje.co.in/sitemap_index.xml
